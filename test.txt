@@ -1,0 +1,3 @@
+t.txt文件，往test.txt写入一些内容
+2.git add test.txt
+3.此时，想删除test.txt文件
